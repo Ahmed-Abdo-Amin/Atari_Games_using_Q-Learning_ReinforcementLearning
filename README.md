@@ -1,4 +1,4 @@
-# Atari Games using Q-Learning Using Reinforcement Learning
+# Atari Games using Q-Learning (Reinforcement Learning)
 
 
 ## Problem Statement: 
